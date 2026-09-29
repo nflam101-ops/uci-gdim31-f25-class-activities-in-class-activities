@@ -2,6 +2,8 @@
 ## Devlogs
 ### W1
 Write your W1 activity Devlog here.
+### it doesn't follow the cat anymore 
+### [cat game] (https://nflam101-ops.itch.io/cat)
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
