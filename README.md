@@ -7,6 +7,10 @@ Write your W1 activity Devlog here.
 
 ### W2
 we use floats because we want the precise decimals when dealing with the color. 
+Compared to the bounce variable which we use an int because we are counting the whole number of bounces. we don't count "half" a bounce so there's no need for decimals. 
+In step 4 of part two you needed to add ";" to the end of the code to actually make it so its read. 
+
+
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
 ## Open-Source Assets
