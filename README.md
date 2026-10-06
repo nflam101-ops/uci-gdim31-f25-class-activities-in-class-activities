@@ -6,6 +6,7 @@ Write your W1 activity Devlog here.
 ### [cat game] (https://nflam101-ops.itch.io/cat)
 
 ### W2
+we use floats because we want the precise decimals when dealing with the color. 
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
 ## Open-Source Assets
