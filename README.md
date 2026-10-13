@@ -11,6 +11,7 @@ Compared to the bounce variable which we use an int because we are counting the 
 In step 4 of part two you needed to add ";" to the end of the code to actually make it so its read. 
 
 ### W3
+Activity 1
 1. output: a public string
               ex: GetResponse(int friendshipLevel, bool knowSecret) ((input)) 
    represent the text response from the character.
@@ -20,7 +21,10 @@ In step 4 of part two you needed to add ";" to the end of the code to actually m
 
 3. return type : a bool.  it would be a true or false of if we hit it on time or not 
        ex: public bool DidHitBeat (float timeHit)
-   imput: the time which would probably be a float. 
+   imput: the time which would probably be a float.
+
+Activity 2 
+wizards spell book are our classes and the wizards are the member variables that cast 
 
 
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
