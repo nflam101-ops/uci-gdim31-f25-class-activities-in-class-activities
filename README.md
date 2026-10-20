@@ -29,8 +29,7 @@ wizards spell book are our classes and the wizards are the member variables that
 
 ### W4
 1. We added rigged bodies to our Cat and ball. Because they both need to move and interact with the wall and each other. While the collider for the Goal we checked "Is Triggers" because the collider is used to trigger the goal. Also we need the ball to be able to pass through therefore its is trigger.
-2.  The cat was dropping to the side. 
-
+2.  it worked perfectly fine the first time.
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
 ## Open-Source Assets
